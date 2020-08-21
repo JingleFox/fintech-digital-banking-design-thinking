@@ -2,6 +2,6 @@
 Design Thinking ideas on how to improve a digital bank application (DBS Paylah)
 
 Teammates/Contributors:
-<br>Ocean Quek</br>
-<br>Chan En Jie</br>
-<br>Jacky Tan Chin Gee</br>
+<br>Ocean Quek
+<br>Chan En Jie
+<br>Jacky Tan Chin Gee
